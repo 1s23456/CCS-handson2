@@ -1,0 +1,116 @@
+.box1
+{
+    color: rgb(239, 38, 38);
+    border-style: dashed;
+    border:10px dashed red;
+    background-color: white;
+    padding : 0 11px 0 11px;
+    padding-bottom: 10px;
+    display : inline-block;
+    text-align: center;
+}
+.box2
+{
+    color: black;
+    background-color: rgb(43, 178, 178);
+    text-decoration: underline;
+    padding: 50px;
+    border:10px solid grey;
+    text-align:center;
+    display: block;
+    border-radius:50%;
+    width: 340px;
+    position: relative;
+    display : inline-block;
+    margin-right: 87px;
+    margin-left: 29px;
+    bottom : 83px;
+}
+
+.box3
+{
+    color:white;
+    background-color: black;
+    text-align: center;
+    border: 10px solid red;
+    padding: 10px;
+    border-radius: 20px 20px;
+    width: 400px;
+    margin: auto;
+}
+.box4 
+{
+    color: rgb(65, 24, 142);
+    background-color: aqua;
+    width: 349px;
+    border:5px solid green;
+    height: 298px;
+    padding-bottom:20px;
+    margin : 0 25px 0 49px;
+    border-radius: 30px;
+    /* display : inline-block; */
+}
+
+.head{
+    font-size: 38px;
+    text-align: center;
+}
+
+li{
+    padding-left: 75px;
+    font-size: 18px;
+}
+
+.layer1 , .layer2{
+    margin-top: 57px;
+    display : flex;
+}
+
+.layer{
+    position: relative;
+    left: 90px;
+}
+.box5
+{
+    color:white;
+    background-color: black;
+    border: 5px solid red; 
+    border-radius: 25px; 
+    width: 400px;
+    height: 166.3;
+    padding-left: 71px;
+    position: relative;
+    left: 205px;
+    margin-bottom: 59px;
+    font-size: 18px;    
+}
+
+.box6
+{
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 25px;
+    width: 280px;
+    height: 99px;
+    padding-left: 28px;
+    font-size: 18px;
+    line-height: 2px;
+}
+.box7
+{
+    color: white;
+    background-color: black;
+    border: 5px solid red;
+    font-size: 18px;
+    border-radius: 25px;
+    height: 52px;
+    width: 376px;
+    padding-left: 38px;
+    position: relative;
+    right : 174px;
+    bottom: 10px;
+}
+.sup{
+    display : flex;
+}
